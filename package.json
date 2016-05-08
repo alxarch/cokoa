@@ -1,0 +1,33 @@
+{
+  "name": "cokoa",
+  "version": "0.1.0",
+  "description": "Koa meets dependency injection container",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": [
+    "koa",
+    "container",
+    "dependency",
+    "injection"
+  ],
+  "author": "Sigalas Alexandros <alxarch@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+	"lazybox": "^0.1.0",
+    "delegates": "^1.0.0",
+    "koa": "^1.2.0",
+    "koa-compose": "^2.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxarch/cokoa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alxarch/cokoa/issues"
+  },
+  "homepage": "https://github.com/alxarch/cokoa#readme"
+}
