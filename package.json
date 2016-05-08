@@ -1,6 +1,6 @@
 {
   "name": "cokoa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Koa meets dependency injection container",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
-	"lazybox": "^0.1.0",
+	"lazybox": "^0.1.1",
     "delegates": "^1.0.0",
     "koa": "^1.2.0",
     "koa-compose": "^2.4.0"
