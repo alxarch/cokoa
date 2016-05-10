@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
-	"lazybox": "^0.1.0",
+	"lazybox": "^0.3.0",
     "delegates": "^1.0.0",
     "koa": "^1.2.0",
     "koa-compose": "^2.4.0"

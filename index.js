@@ -54,6 +54,7 @@ delegate(Cokoa.prototype, 'container')
 	.method('define')
 	.method('has')
 	.method('delete')
+	.method('rebase')
 	.method('extend')
 	.method('match')
 	.method('setdefault');
